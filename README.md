@@ -33,7 +33,7 @@ Modelo de uma rede neural convolucional para classificação das imagens de gest
 </p>
 
 <p align="center">
-  <img width="100" height="100" src="https://user-images.githubusercontent.com/44169749/96176278-86bfcc80-0f02-11eb-98b8-f6aa4282bbc5.png">
+  <img max-width = '100%' height="100" src="https://user-images.githubusercontent.com/44169749/96176278-86bfcc80-0f02-11eb-98b8-f6aa4282bbc5.png">
 </p>
 
 
