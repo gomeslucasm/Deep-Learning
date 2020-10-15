@@ -6,6 +6,13 @@ Notebooks Python🐍 de exercícios realizados na Disciplina de Deep Learning (D
 
 ## Rede neural perceptron
 
+###
+
+Código de uma rede neural usando o algoritmo de backpropagation, para classificação de espécies de flores, 
+implementado com a biblioteca <strong>Numpy</strong>.
+
+Código de uma rene
+
 ### <a href = "https://github.com/gomeslucasm/Deep-Learning/blob/master/Exerc_Backprop_MNIST_Lucas_Gomes.ipynb" >Indentificação de números escritos a mão </a>
 
 Código de uma rede neural artificial estilo perceptron, utilizando o algoritmo de backpropagation para identificar
