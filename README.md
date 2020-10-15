@@ -10,7 +10,9 @@ Código de uma rede neural artificial estilo perceptron, utilizando o algoritmo 
 os dígitos escritos a mão. Para treinamento e validação, é utilizado a base de dados MNIST <a> http://yann.lecun.com/exdb/mnist/ </a>.
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/44169749/96166004-c7641980-0ef3-11eb-93ec-8cfa12578646.PNG">
+  Exemplo:
+  
+  <img width="100" height="100" src="https://user-images.githubusercontent.com/44169749/96166004-c7641980-0ef3-11eb-93ec-8cfa12578646.PNG">
 </p>
 
 
