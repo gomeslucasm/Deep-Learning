@@ -22,7 +22,8 @@ os dígitos escritos a mão. Para treinamento e validação, é utilizado a base
 ## Rede neural convolucional
 
 
-### Classificação de gestos da linguagem americana de sinais
+
+### <a href = "https://github.com/gomeslucasm/Deep-Learning/blob/master/Exerc_SINAIS_Lucas_Gomes.ipynb" >Classificação de gestos da linguagem americana de sinais </a>
 
 Modelo de uma rede neural convolucional para classificação das imagens de gestos que representam os dígitos 0, 1, 2, 3, 4, 5, 6, 7, 8,
 9 em linguagem americana de sinais.
