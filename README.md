@@ -4,7 +4,7 @@ Python nooteboks de exercícios realizados na Disciplina de Deep Learning (DPEE1
 
 # Exercícios
 
-## Indentificação de números escritos a mão
+## <a href = "https://github.com/gomeslucasm/Deep-Learning/blob/master/Exerc_Backprop_MNIST_Lucas_Gomes.ipynb" >Indentificação de números escritos a mão </a>
 
 Código de uma rede neural artificial estilo perceptron, utilizando o algoritmo de backpropagation para identificar
 os dígitos escritos a mão. Para treinamento e validação, é utilizado a base de dados MNIST <a> http://yann.lecun.com/exdb/mnist/ </a>.
