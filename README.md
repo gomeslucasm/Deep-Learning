@@ -39,9 +39,11 @@ Modelo de uma rede neural convolucional para classificação das imagens de gest
 
 
 
-## <a href = "https://github.com/gomeslucasm/Deep-Learning/blob/master/Word2Vec_Lucas_Gomes.ipynb" >Word2Vec </a>
+## Word2Vec
 
-Modelo Word2Vec para um sistema de recomendação de produtos similares para um site de compras online. Uma base de dados com histórico de compras de clientes em um site que vende produtos pela internet é usada para treinar um modelo word2vec
+### <a href = "https://github.com/gomeslucasm/Deep-Learning/blob/master/Word2Vec_Lucas_Gomes.ipynb" >Modelo Word2Vec para um sistema de recomendação de produtos similares para um site de compras online.</a>
+
+ Uma base de dados com histórico de compras de clientes em um site que vende produtos pela internet é usada para treinar um modelo word2vec
 e sugerir produtos a partir de um produto específico ou lista.
 
 <p align="center">
