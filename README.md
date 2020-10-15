@@ -6,11 +6,11 @@ Notebooks Python🐍 de exercícios realizados na Disciplina de Deep Learning (D
 
 ## Rede neural perceptron
 
-###  <a href = "https://github.com/gomeslucasm/Deep-Learning/blob/master/Exerc_Backprop_MNIST_Lucas_Gomes.ipynb" >Classificação de espécies de flores</a>
+###  <a href = "https://github.com/gomeslucasm/Deep-Learning/blob/master/BackPropagation_Iris_LucasGomes.ipynb" >Classificação de espécies de flores</a>
 
 Código de uma rede neural usando o algoritmo de backpropagation para classificação de espécies de flores, que foi
 implementado usando a biblioteca <strong>Numpy</strong>. Para o treinamento e validação da rede neural, é utilizado o 
-<a href ="https://archive.ics.uci.edu/ml/datasets/iris">Iris</a> dataset, que contém dados morfológicos de três espécies da flor Iris.
+<strong><a href ="https://archive.ics.uci.edu/ml/datasets/iris">Iris</a></strong> dataset, que contém dados morfológicos de três espécies da flor Iris.
 
 Código de uma rene
 
