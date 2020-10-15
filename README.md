@@ -1,6 +1,6 @@
 # Deep-Learning
 
-Python nooteboks de exercícios realizados na Disciplina de Deep Learning (DPEE1085) da UFSM.
+Notebooks Python🐍 de exercícios realizados na Disciplina de Deep Learning (DPEE1085) da UFSM.
 
 # Exercícios
 
