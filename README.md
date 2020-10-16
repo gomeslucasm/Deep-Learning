@@ -12,6 +12,10 @@ Código de uma rede neural usando o algoritmo de backpropagation para classifica
 implementado usando a biblioteca <strong>Numpy</strong>. Para o treinamento e validação da rede neural, é utilizado o 
 <strong><a href ="https://archive.ics.uci.edu/ml/datasets/iris">Iris</a></strong> dataset, que contém dados morfológicos de três espécies da flor Iris.
 
+<p align="center">
+  <img width="100" height="100" src="https://miro.medium.com/max/1200/1*2uGt_aWJoBjqF2qTzRc2JQ.jpeg">
+</p>
+
 
 ### <a href = "https://github.com/gomeslucasm/Deep-Learning/blob/master/Exerc_Backprop_MNIST_Lucas_Gomes.ipynb" >Indentificação de números escritos a mão </a>
 
