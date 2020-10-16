@@ -13,7 +13,7 @@ implementado usando a biblioteca <strong>Numpy</strong>. Para o treinamento e va
 <strong><a href ="https://archive.ics.uci.edu/ml/datasets/iris">Iris</a></strong> dataset, que contém dados morfológicos de três espécies da flor Iris.
 
 <p align="center">
-  <img width="100" height="100" src="https://miro.medium.com/max/1200/1*2uGt_aWJoBjqF2qTzRc2JQ.jpeg">
+  <img width="100%" height="200" src="https://miro.medium.com/max/1200/1*2uGt_aWJoBjqF2qTzRc2JQ.jpeg">
 </p>
 
 
