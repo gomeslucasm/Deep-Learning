@@ -1,6 +1,6 @@
 # Deep-Learning
 
-Notebooks Python🐍 de exercícios realizados na Disciplina de Deep Learning (DPEE1085) da UFSM.
+Notebooks Python🐍 de exercícios realizados na Disciplina de Deep Learning (DPEE1085), Ministrada pelo Professor Dr. Rodrigo Guerra, na UFSM.
 
 # Exercícios
 
